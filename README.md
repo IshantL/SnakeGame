@@ -7,3 +7,6 @@
 
 ## Play the game here at
 https://ishantl.github.io/SnakeGame/web.html
+
+
+<iframe src="https://ishantl.github.io/SnakeGame/web.html"></iframe>
